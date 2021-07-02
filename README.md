@@ -4,7 +4,7 @@
 <img src="https://github.com/ThomazGR/ThomazGR/blob/main/python.png"
      alt="python_hand_made"
      style="margin-top:0px;"
-     height="285px"
+     height="280px"
      align="right" />
 
 ```python
