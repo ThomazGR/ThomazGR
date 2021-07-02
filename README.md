@@ -27,4 +27,3 @@ def generate_bio(who):
 ---
 Tweet me at [oddie1x](https://www.twitter.com/oddie1x)<br>
 LinkedIn me at [my profile](https://www.linkedin.com/thomazgr)<br>
-Or [here](http://thomaz.tech)
