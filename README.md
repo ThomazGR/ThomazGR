@@ -9,7 +9,7 @@
 
 ```python
 class Bio:
-     def __init__(self):
+     def personal_inforomation(self):
           self.name = "Thomaz Guadagnini"
           self.location = "Campinas - SP"
           self.working_place = "Looqbox"
