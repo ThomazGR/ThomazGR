@@ -13,7 +13,8 @@ class Bio:
           self.name = "Thomaz Guadagnini"
           self.location = "Campinas - SP"
           self.working_place = "Looqbox"
-          return "Hello! I am {}. Currently located in {} and working at {}".format(self.name, self.location, self.working_place)
+          return "Hello! I am {}. Currently located in {} and working at {}".format(
+                    self.name, self.location, self.working_place)
      
      def education(self):
           self.currently = "MSc @ Unicamp"
