@@ -46,10 +46,10 @@ class Bio:
 
 # 🧰 Skills
 
-R, Python, Shell Script and SQL
-Data analysis, scripting, data filtering
-Relational and non-relational databases: PostgreSQL, Big Query, and more
-RNA-seq data analysis from raw files to differential expression analysis, functional enrichment and data visualization
+R, Python, Shell Script and SQL <br>
+Data analysis, scripting, data filtering <br>
+Relational and non-relational databases: PostgreSQL, Big Query, and more <br>
+RNA-seq data analysis from raw files to differential expression analysis, functional enrichment and data visualization <br>
 
 # 📞 Contact
 <div>
