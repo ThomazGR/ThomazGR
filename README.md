@@ -13,19 +13,24 @@ class Bio:
           self.name = "Thomaz Guadagnini"
           self.location = "Campinas - SP"
           self.working_place = "Looqbox"
-          return "Hello! I am {}. Currently located in {} and working at {}".format(
-                    self.name, self.location, self.working_place)
+          return "Hello! MY name is {} and I'm currently located in {}. \
+                  Also working at {}".format(self.name, self.location, self.working_place)
      
      def education(self):
-          self.currently = "MSc @ Unicamp"
+          self.currently = "MSc in Nutritional Sciences, Metabolism, Bioinformatics @ Unicamp"
           self.past = "BSc in Sports Sciences @ Unicamp"
-          return "Currently {} and previously {}".format(self.currently, self.past)
+          return "Currently working on my {} and previously {}".format(
+                                               self.currently, self.past)
      
      def interests(self):
-          self.topics = ["statistics", "nafld", "SQL", "Big Query", "GCP",
-                         "PostgreSQL", "R lang", "Python", "bioinformatics"]
+          self.topics = ["Statistics", "RNA-seq", "SQL", "Big Query", "GCP",
+                         "PostgreSQL", "R lang", "Python", "Bioinformatics"]
+          return "Some topics that I'm interested in: {}".format(", ".join(self.topics))
 ```
 ---
+
+# 💻 Technologies
+
 <div style="display: inline_block";>
      <img align="center" alt="thomaz-python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
      <img align="center" alt="thomaz-r" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
@@ -35,8 +40,14 @@ class Bio:
      <img align="center" alt="thomaz-psql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 </div>
 
----
+# 🧰 Skills
 
+R, Python, Shell Script and SQL
+Data analysis, scripting, data filtering
+Relational and non-relational databases: PostgreSQL, Big Query, and more
+RNA-seq data analysis from raw files to differential expression analysis, functional enrichment and data visualization
+
+# 📞 Contact
 <div>
      <a href="mailto:ramalheira@protonmail.com" target="_blank"> <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"> </a>
      <a href="mailto:thomaz@vivaldi.net" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"> </a>
