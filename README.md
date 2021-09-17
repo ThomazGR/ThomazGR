@@ -12,12 +12,12 @@ class Bio:
      def personal_information(self):
           self.name = "Thomaz Guadagnini"
           self.location = "Campinas - SP"
-          self.working_place = "Looqbox"
+          self.working_place = "Iteris Consultoria e Software"
           return "Hello! MY name is {} and I'm currently located in {}. \
                   Also working at {}".format(self.name, self.location, self.working_place)
      
      def education(self):
-          self.currently = "MSc in Nutritional Sciences, Metabolism, Bioinformatics @ Unicamp"
+          self.currently = "MSc in Nutritionm, Metabolism, Bioinformatics @ Unicamp"
           self.past = "BSc in Sports Sciences @ Unicamp"
           return "Currently working on my {} and previously {}".format(
                                                self.currently, self.past)
@@ -39,7 +39,6 @@ class Bio:
      <img align="center" alt="thomaz-mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
      <img align="center" alt="thomaz-psql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
      <img align="center" alt="thomaz-ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
-     <img align="center" alt="thomaz-windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
      
      
 </div>
