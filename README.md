@@ -9,46 +9,64 @@
 
 ```python
 class Bio:
-     def personal_information(self):
+     def __init__(self):
           self.name = "Thomaz Guadagnini"
-          self.location = "Campinas - SP"
-          self.working_place = "Iteris Consultoria e Software"
-          return "Hello! MY name is {} and I'm currently located in {}. \
-                  Also working at {}".format(self.name, self.location, self.working_place)
+          self.role = "Data Engineer @ Iteris"
+          self.languages = ["PT-BR", "EN-US"]
+          self.education = "MSc student @ Unicamp"
+          self.interests = ["Bioinformatics",
+                            "Omics", "Spark",
+                            "Statistics"]
      
-     def education(self):
-          self.currently = "MSc in Nutritionm, Metabolism, Bioinformatics @ Unicamp"
-          self.past = "BSc in Sports Sciences @ Unicamp"
-          return "Currently working on my {} and previously {}".format(
-                                               self.currently, self.past)
-     
-     def interests(self):
-          self.topics = ["Statistics", "RNA-seq", "SQL", "Big Query", "GCP",
-                         "PostgreSQL", "R lang", "Python", "Bioinformatics"]
-          return "Some topics that I'm interested in: {}".format(", ".join(self.topics))
+     def show_info(self):
+          print(self.name)
+          print(self.role)
+          print(", ".join(self.languages))
+          print(self.education)
+          print(", ".join(self.interests))
+          
+who = Bio()
+who.show_info()
 ```
 ---
 
-# 💻 Technologies
+A simple Data Engineer who loves Bioinformatics.
+
+# 💻 Technologies/Skills
 
 <div style="display: inline_block";>
-     <img align="center" alt="thomaz-python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-     <img align="center" alt="thomaz-r" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
-     <img align="center" alt="thomaz-bash" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
-     <img align="center" alt="thomaz-gcp" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
-     <img align="center" alt="thomaz-mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-     <img align="center" alt="thomaz-psql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-     <img align="center" alt="thomaz-ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+     <img align="center" alt="thomaz-python" width="50px"
+        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
+     <img align="center" alt="thomaz-r" width="50px"
+        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png">
+     <img align="center" alt="thomaz-bash" width="60px"
+        src="https://img.icons8.com/plasticine/100/000000/bash.png">
+     <img align="center" alt="thomaz-git" width="50px"
+        src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
+     <img align="center" alt="thomaz-mysql" width="50px"
+        src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg">
+     <img align="center" alt="thomaz-psql" width="50px"
+        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png">
+     <img align="center" alt="thomaz-ubuntu" width="50px"
+        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png">
      
      
 </div>
 
-# 🧰 Skills
+# 🧰 Currently learning/Interests
 
-R, Python, Shell Script and SQL <br>
-Data analysis, scripting, data filtering <br>
-Relational and non-relational databases: PostgreSQL, Big Query, and more <br>
-RNA-seq data analysis from raw files to differential expression analysis, functional enrichment and data visualization <br>
+<div style="display: inline_block";>
+     <img align="center" alt="thomaz-databricks" width="40px"
+        src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg">
+     <img align="center" alt="thomaz-azure" width="50px"
+        src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg">
+     <img align="center" alt="thomaz-spark" width="100px"
+        src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg">
+     <img align="center" alt="thomaz-bq" width="50px"
+        src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg">
+     
+     
+</div>
 
 # 📞 Contact
 <div>
