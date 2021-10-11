@@ -1,36 +1,20 @@
 
----
-
 <img src="https://github.com/ThomazGR/ThomazGR/blob/main/python.png"
      alt="python_hand_made"
-     style="margin-top:0px;"
+     style="margin-top:200px;"
      height="280px"
      align="right" />
 
-```python
-class Bio:
-     def __init__(self):
-          self.name = "Thomaz Guadagnini"
-          self.role = "Data Engineer @ Iteris"
-          self.languages = ["PT-BR", "EN-US"]
-          self.education = "MSc student @ Unicamp"
-          self.interests = ["Bioinformatics",
-                            "Omics", "Spark",
-                            "Statistics"]
-     
-     def show_info(self):
-          print(self.name)
-          print(self.role)
-          print(", ".join(self.languages))
-          print(self.education)
-          print(", ".join(self.interests))
-          
-who = Bio()
-who.show_info()
-```
----
+<h1 align="center">Hi! I'm Thomaz Guadagnini</h1>
+<h3 align="center">A simple Data Engineer that loves Bioinformatics. <br>Basically a professional pipeline doer.</h3>
 
-A simple Data Engineer who loves Bioinformatics.
+- 🔭 I’m currently working on **minimal RNA-seq pipelines from raw data to DEGs**
+
+- 🌱 I’m currently learning **Databricks, Delta Lake, Spark/PySpark and Cloud environment with Azure, e.g. DevOps, Data Factory and more.**
+
+- 💬 Ask me about **Python, R, statistics, dataviz, RNA-seq data analysis, data pipeline and workflows, RDBMS**
+
+- 📄 Know about my experiences [here](https://thomzgr.github.io)
 
 # 💻 Technologies/Skills
 
@@ -67,9 +51,6 @@ A simple Data Engineer who loves Bioinformatics.
      
      
 </div>
-
-# 💬 Ask me about
-**Python, R, statistics, RNA-seq data analysis, data pipeline and workflows, RDBMS**
 
 # 📫 How to reach me
 <div>
