@@ -53,9 +53,4 @@
 </div>
 
 ### How to reach me
-[**ProtonMail**](mailto:ramalheira@protonmail.com) <br>
-[**Personal email**](mailto:thomaz@vivaldi.net) <br>
-[**Twitter**](https://twitter.com/thomazgr1) <br>
-[**LinkedIn**](https://www.linkedin.com/in/thomazgr/) <br>
-[**Github**](https://github.com/ThomazGR) <br>
-[**TwitchTV**](https://twitch.tv/oddie1)
+[**ProtonMail**](mailto:ramalheira@protonmail.com) | [**Personal email**](mailto:thomaz@vivaldi.net) | [**Twitter**](https://twitter.com/thomazgr1) | [**LinkedIn**](https://www.linkedin.com/in/thomazgr/) | [**Github**](https://github.com/ThomazGR) | [**TwitchTV**](https://twitch.tv/oddie1)
