@@ -10,13 +10,13 @@
 
 - I’m currently working on **minimal RNA-seq pipelines from raw data to DEGs**
 
-- I’m currently learning **Databricks, Delta Lake, Spark/PySpark and Cloud environment with Azure**
+- I’m currently handling **Databricks, Spark/PySpark/Delta Lake and Cloud environment with Azure Data Lake Storage, Azure DevOps and Azure Data Factory**
 
 - Ask me about **Python, R, statistics, dataviz, RNA-seq data analysis, data pipeline and workflows, RDBMS**
 
 - Know about my experiences [here](https://thomazgr.github.io)
 
-### Technologies that I like to play with
+<!---### Technologies that I like to play with
 
 <div style="display: inline_block";>
      <img align="center" alt="thomaz-python" width="30px"
@@ -50,7 +50,7 @@
         src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg">
      
      
-</div>
+</div>-->
 
 ### How to reach me
 [**ProtonMail**](mailto:ramalheira@protonmail.com) | [**Personal email**](mailto:thomaz@vivaldi.net) | [**Twitter**](https://twitter.com/thomazgr1) | [**LinkedIn**](https://www.linkedin.com/in/thomazgr/) | [**Github**](https://github.com/ThomazGR) | [**TwitchTV**](https://twitch.tv/oddie1)
