@@ -8,11 +8,7 @@
 <h1 align="center">Hi! I'm Thomaz Guadagnini</h1>
 <h3 align="center">A simple Data Engineer that loves Bioinformatics. <br>Basically a professional pipeline doer.</h3>
 
-- I’m currently working on **minimal RNA-seq pipelines from raw data to DEGs**
-
-- I’m currently handling **Databricks, Spark/PySpark/Delta Lake and Cloud environment with Azure Data Lake Storage, Azure DevOps and Azure Data Factory**
-
-- Ask me about **Python, R, statistics, dataviz, RNA-seq data analysis, data pipeline and workflows, RDBMS**
+- I love to work with Python, R, PySpark, Databricks, Delta Lake, DL and DW, ETL, pipelines, workflows, reproducibility, bulk RNA-seq data analysis, sequencing quality control, data viz, statistics, and more.
 
 - Know about my experiences [here](https://thomazgr.github.io)
 
