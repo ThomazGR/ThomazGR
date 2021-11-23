@@ -5,12 +5,11 @@
      height="280px"
      align="right" />
 
-<h1 align="center">Hi! I'm Thomaz Guadagnini</h1>
-<h3 align="center">A simple Data Engineer that loves Bioinformatics. <br>Basically a professional pipeline doer.</h3>
+<h1 align="center">This is me -> Thomaz Guadagnini</h1>
 
 - I love to work with Python, R, Shell Script, PySpark, Databricks, Delta Lake, DL and DW, ETL, pipelines, workflows, reproducibility, bulk RNA-seq data analysis, sequencing quality control, data viz, statistics, and more.
 
-- Know about my experiences [here](https://thomazgr.github.io)
+- Know about my experiences [here](https://thomazgr.github.io/vitae.html)
 
 <!---### Technologies that I like to play with
 
@@ -49,4 +48,4 @@
 </div>-->
 
 ### How to reach me
-[**ProtonMail**](mailto:ramalheira@protonmail.com) | [**Personal email**](mailto:thomaz@vivaldi.net) | [**Twitter**](https://twitter.com/thomazgr1) | [**LinkedIn**](https://www.linkedin.com/in/thomazgr/) | [**Github**](https://github.com/ThomazGR) | [**TwitchTV**](https://twitch.tv/oddie1)
+[**Personal email**](mailto:thomaz@vivaldi.net) | [**ProtonMail**](mailto:ramalheira@protonmail.com) | [**Outlook**](mailto:thomazgr@outlook.com.br) | [**Twitter**](https://twitter.com/thomazgr1) | [**LinkedIn**](https://www.linkedin.com/in/thomazgr/) | [**Github**](https://github.com/ThomazGR) | [**TwitchTV**](https://twitch.tv/oddie1)
