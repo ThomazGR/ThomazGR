@@ -5,11 +5,11 @@
      height="280px"
      align="right" />
 
-<h1 align="center">This is me -> Thomaz Guadagnini</h1>
+<h4 align="left">This is me -> Thomaz Guadagnini</h4>
 
-- I love to work with Python, R, Shell Script, PySpark, Databricks, Delta Lake, DL and DW, ETL, pipelines, workflows, reproducibility, bulk RNA-seq data analysis, sequencing quality control, data viz, statistics, and more.
+I usually work with Python, SQL, R, PySpark, Delta architecture, Databricks, data pipelines, Azure Data Factory, data lakes, data warehouses, reproducibility, statistics, transcriptomics, RNA-seq data analysis. <br> I also like relational databases like MySQL, PostgreSQL, Oracle, SQL Server, some Bigquery, and more.
 
-- Know about my experiences [here](https://thomazgr.github.io/vitae.html)
+Know about my experiences [here](https://thomazgr.github.io/vitae.html)
 
 <!---### Technologies that I like to play with
 
