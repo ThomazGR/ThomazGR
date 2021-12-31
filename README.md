@@ -1,11 +1,12 @@
 
-<img src="https://github.com/ThomazGR/ThomazGR/blob/main/python.png"
+<!--<img src="https://github.com/ThomazGR/ThomazGR/blob/main/python.png"
      alt="python_hand_made"
      style="margin-top:200px;"
      height="280px"
-     align="right" />
+     align="right" />-->
 Currently a Data Engineer that loves Bioinformatics. <br>
-I usually work with Python, SQL, R, PySpark, Delta architecture, Databricks, data pipelines, Azure Data Factory, data lakes, data warehouses, reproducibility, statistics, transcriptomics, RNA-seq data analysis. <br>
+I usually work with Python, SQL, R, PySpark, Delta architecture, Databricks, data pipelines, DL/DW/DLW. <br>
+Also reproducibility, statistics, automation, transcriptomics, RNA-seq data analysis is something I love. <br>
 Know about my experiences [here](https://thomazgr.github.io/vitae.html)
 
 ### How to reach me
