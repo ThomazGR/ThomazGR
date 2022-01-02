@@ -10,4 +10,4 @@ Also reproducibility, statistics, automation, transcriptomics, RNA-seq data anal
 Know about my experiences and published papers in [here](https://thomazgr.github.io/resume.html)
 
 ### How to reach me
-[**Personal email**](mailto:thomaz@vivaldi.net) | [**ProtonMail**](mailto:ramalheira@protonmail.com) | [**Twitter**](https://twitter.com/thomazgr1) | [**LinkedIn**](https://www.linkedin.com/in/thomazgr/) | [**Github**](https://github.com/thomazgr)
+[**Vivaldi Mail**](mailto:thomaz@vivaldi.net) | [**Tutanota Mail**](mailto:thomaz@tutanota.de) | [**Twitter**](https://twitter.com/thomazgr1) | [**LinkedIn**](https://www.linkedin.com/in/thomazgr/) | [**Github**](https://github.com/thomazgr)
