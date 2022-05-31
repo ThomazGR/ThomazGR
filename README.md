@@ -9,4 +9,4 @@ I also really like bioinformatics, transcriptomics, statistics, R and reproducib
 Trying not to give up on my MSc.
 
 ### How to reach me
-[**Tutanota**](mailto:thzgr@tuta.io) | [**Twitter**](https://twitter.com/thomazgr1) | [**LinkedIn**](https://www.linkedin.com/in/thomazgr/) | [**Github**](https://github.com/thomazgr)
+[**Tutanota**](mailto:thzgr@tuta.io) | [**Proton**](mailto:thzgr@proton.me) | [**Twitter**](https://twitter.com/thomazgr1) | [**LinkedIn**](https://www.linkedin.com/in/thomazgr/) | [**Github**](https://github.com/thomazgr)
