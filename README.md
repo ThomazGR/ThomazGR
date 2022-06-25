@@ -4,9 +4,11 @@
      style="margin-top:200px;"
      height="280px"
      align="right" />
-Data Engineer playing with Spark, Python, Delta Lake and more. <br>
-I also really like bioinformatics, transcriptomics, statistics, R and reproducibility. <br>
-Trying not to give up on my MSc.
+### Hi there!
+Data Engineer: Spark, data pipelines, Azure data stack (e.g. Data Factory, ADLS Gen2, Synapse Analyltics, KV), Databricks, SQL<br>
+Programming: Python, R, SQL, Shell script<br>
+Databases: PostgreSQL, MySQL, SQL Server<br>
+MSc: Bioinformatics, transcriptomics, microRNAs, NASH, reproducibility<br>
 
 ### How to reach me
-[**Tutanota**](mailto:thzgr@tuta.io) | [**Proton**](mailto:thzgr@proton.me) | [**Twitter**](https://twitter.com/thomazgr1) | [**LinkedIn**](https://www.linkedin.com/in/thomazgr/) | [**Github**](https://github.com/thomazgr)
+[**Tutanota**](mailto:thzgr@tuta.io) | [**Proton**](mailto:thzgr@proton.me) | [**Twitter**](https://twitter.com/thomazgr1) | [**Github**](https://github.com/thzgr)
