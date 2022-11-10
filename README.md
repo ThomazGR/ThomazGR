@@ -11,4 +11,4 @@ Databases: PostgreSQL, MySQL, SQL Server<br>
 MSc: Bioinformatics, transcriptomics, microRNAs, NASH, reproducibility<br>
 
 ### How to reach me
-[**Tutanota**](mailto:thzgr@tuta.io) | [**Proton**](mailto:thzgr@proton.me) | [**Twitter**](https://twitter.com/thzgr_) | [**Github**](https://github.com/thzgr)
+[**Tutanota**](mailto:thzgr@tuta.io) | [**Proton**](mailto:thzgr@proton.me) | [**Twitter**](https://twitter.com/thzgr_) | [**Github**](https://github.com/thzgr) | <a rel="me" href="https://mas.to/@thz">**Mastodon**</a>
